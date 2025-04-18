@@ -1,4 +1,4 @@
-🛒 #Amazon.com Website Clone
+🛒 Amazon.com Website Clone
 
 This project is a front-end clone of Amazon's homepage, built using HTML and CSS. The main goal of this project was to practice and strengthen frontend development skills by replicating the layout, design, and user interface of a globally recognized e-commerce platform.
 
@@ -41,6 +41,7 @@ The design was tested across different screen sizes to maintain mobile-friendlin
 ✅ Built using only HTML and CSS (no JavaScript or backend).
 
 📁 Project Structure
+
 index.html – Main HTML file containing the layout.
 
 style.css – CSS file for all the styling and responsiveness.
